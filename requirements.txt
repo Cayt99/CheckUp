@@ -1,2 +1,2 @@
-python-telegram-bot==20.8
-dateparser==1.2.0
+pip install python-telegram-bot
+pip install dateparser
